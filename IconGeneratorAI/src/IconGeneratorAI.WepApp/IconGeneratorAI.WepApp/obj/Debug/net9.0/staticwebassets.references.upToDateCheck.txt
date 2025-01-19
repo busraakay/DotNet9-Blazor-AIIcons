@@ -1,0 +1,2 @@
+C:\Users\win11\OneDrive\Belgeler\Bootcamp Dosyaları\IconGeneratorAI\src\IconGeneratorAI.WepApp\IconGeneratorAI.WepApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\win11\OneDrive\Belgeler\Bootcamp Dosyaları\IconGeneratorAI\src\IconGeneratorAI.WepApp\IconGeneratorAI.WepApp.Client\obj\Debug\net9.0\staticwebassets.build.json
