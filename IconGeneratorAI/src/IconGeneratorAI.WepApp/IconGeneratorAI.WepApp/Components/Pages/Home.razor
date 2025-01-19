@@ -1,7 +1,26 @@
 ﻿@page "/"
+@using IconGeneratorAI.WepApp.Client.Pages
+@using IconGeneratorAI.WepApp.Data
+@using IconGeneratorAI.WepApp.Models
+@using Microsoft.EntityFrameworkCore
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+@foreach (var article in articles)
+{
+    <ArticleCard @rendermode="InteractiveWebAssembly" Title="@article.Title" Content="@article.Content" Id="@article.Id" />
+}
+
+
+@code{
+    private List<Article> articles;
+    protected override async Task OnInitializedAsync()
+    {
+        articles = FakeDb.GetArticles();
+        await base.OnInitializedAsync();
+    }
+}

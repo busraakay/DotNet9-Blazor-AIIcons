@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s7X99K6Tjmc=",
+  "dgSpecHash": "zYKVw7a2Gbw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\Bootcamp Dosyaları\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj",
+  "projectFilePath": "C:\\Users\\win11\\source\\repos\\DotNet9-Blazor-AIIcons\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.0\\microsoft.aspnetcore.components.9.0.0.nupkg.sha512",

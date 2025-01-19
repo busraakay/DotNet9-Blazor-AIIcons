@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win11\\OneDrive\\Belgeler\\Bootcamp Dosyaları\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj": {}
+    "C:\\Users\\win11\\source\\repos\\DotNet9-Blazor-AIIcons\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win11\\OneDrive\\Belgeler\\Bootcamp Dosyaları\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj": {
+    "C:\\Users\\win11\\source\\repos\\DotNet9-Blazor-AIIcons\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win11\\OneDrive\\Belgeler\\Bootcamp Dosyaları\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj",
+        "projectUniqueName": "C:\\Users\\win11\\source\\repos\\DotNet9-Blazor-AIIcons\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj",
         "projectName": "IconGeneratorAI.WepApp.Client",
-        "projectPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\Bootcamp Dosyaları\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj",
+        "projectPath": "C:\\Users\\win11\\source\\repos\\DotNet9-Blazor-AIIcons\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\IconGeneratorAI.WepApp.Client.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\Bootcamp Dosyaları\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\obj\\",
+        "outputPath": "C:\\Users\\win11\\source\\repos\\DotNet9-Blazor-AIIcons\\IconGeneratorAI\\src\\IconGeneratorAI.WepApp\\IconGeneratorAI.WepApp.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

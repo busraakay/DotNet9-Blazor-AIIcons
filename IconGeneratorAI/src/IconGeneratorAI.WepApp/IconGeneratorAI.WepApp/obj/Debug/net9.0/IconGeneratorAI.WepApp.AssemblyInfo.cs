@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IconGeneratorAI.WepApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf9f6d727bc282f7f529096df586cbff5b6a9d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("IconGeneratorAI.WepApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IconGeneratorAI.WepApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

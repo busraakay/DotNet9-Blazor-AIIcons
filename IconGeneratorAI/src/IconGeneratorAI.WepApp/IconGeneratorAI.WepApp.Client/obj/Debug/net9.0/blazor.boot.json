@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "IconGeneratorAI.WepApp.Client",
   "resources": {
-    "hash": "sha256-JK3xz5cAsOd2LJdrsdomUNe8z4uJNNpq3HCVm+jlwvk=",
+    "hash": "sha256-b/nofiNLxDNSd5dy1c6qxL5tdcae61bulMmXYPXwhZ8=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -203,8 +203,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "IconGeneratorAI.WepApp.Client.cmk88wdhpj.wasm": "IconGeneratorAI.WepApp.Client.wasm",
-      "IconGeneratorAI.WepApp.Client.0n5cs20tqn.pdb": "IconGeneratorAI.WepApp.Client.pdb"
+      "IconGeneratorAI.WepApp.Client.vhj17sanev.wasm": "IconGeneratorAI.WepApp.Client.wasm",
+      "IconGeneratorAI.WepApp.Client.eppv64usp9.pdb": "IconGeneratorAI.WepApp.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -416,10 +416,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "IconGeneratorAI.WepApp.Client.cmk88wdhpj.wasm": "sha256-ZLKS/3idZy4puqGxK5bJdrXYIXSVv3vMgbX1v2rgxDM="
+      "IconGeneratorAI.WepApp.Client.vhj17sanev.wasm": "sha256-8892ZapVEtkw0EpDLWJEFhMDYbG4g2EYj1TFdUhUNYc="
     },
     "pdb": {
-      "IconGeneratorAI.WepApp.Client.0n5cs20tqn.pdb": "sha256-jMte4+ADkXBn1rMgD/yxjL57anuBoALggA19hJwjQVk="
+      "IconGeneratorAI.WepApp.Client.eppv64usp9.pdb": "sha256-4skaCwLvvc8p6IV/wMMedcLXfRxFtNH+FbfxJyMeyzk="
     }
   },
   "cacheBootResources": true,

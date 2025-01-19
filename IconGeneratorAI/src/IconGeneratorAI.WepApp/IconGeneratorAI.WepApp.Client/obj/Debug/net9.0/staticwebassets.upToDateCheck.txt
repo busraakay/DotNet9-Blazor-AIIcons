@@ -1,4 +1,4 @@
-C:\Users\win11\OneDrive\Belgeler\Bootcamp Dosyaları\IconGeneratorAI\src\IconGeneratorAI.WepApp\IconGeneratorAI.WepApp.Client\wwwroot\appsettings.json
-C:\Users\win11\OneDrive\Belgeler\Bootcamp Dosyaları\IconGeneratorAI\src\IconGeneratorAI.WepApp\IconGeneratorAI.WepApp.Client\wwwroot\appsettings.Development.json
+C:\Users\win11\Source\Repos\DotNet9-Blazor-AIIcons\IconGeneratorAI\src\IconGeneratorAI.WepApp\IconGeneratorAI.WepApp.Client\wwwroot\appsettings.json
+C:\Users\win11\Source\Repos\DotNet9-Blazor-AIIcons\IconGeneratorAI\src\IconGeneratorAI.WepApp\IconGeneratorAI.WepApp.Client\wwwroot\appsettings.Development.json
 wwwroot\appsettings.Development.json
 wwwroot\appsettings.json
